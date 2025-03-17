@@ -1,7 +1,6 @@
 Hotel Management System
 Overview
 The Hotel Management System is a simple Java-based application designed to manage hotel operations, including room reservations, check-ins, check-outs, and guest management. The system provides an interactive CLI (Command Line Interface) / GUI (Graphical User Interface) for ease of use.
-
 Features
 🏨 Room Management – Add, update, and delete rooms.
 👥 Guest Management – Register, edit, and remove guest details.
