@@ -43,7 +43,6 @@ DB_PASSWORD=yourpassword
 DB_NAME=hotel_management
 4. Build and Run the Project
 If using Maven:
-
 sh
 Copy
 Edit
